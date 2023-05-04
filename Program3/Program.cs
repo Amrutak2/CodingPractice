@@ -9,7 +9,7 @@ namespace Program3
         static void Main(string[] args)
         {
             int a, p, i;
-            int res =1;
+            int res = 1;
 
             Console.WriteLine("Enter the base number: ");
             a = Convert.ToInt32(Console.ReadLine());
