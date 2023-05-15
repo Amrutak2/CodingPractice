@@ -1,0 +1,16 @@
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\Program7.csproj.AssemblyReference.cache
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\Program7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\Program7.AssemblyInfoInputs.cache
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\Program7.AssemblyInfo.cs
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\Program7.csproj.CoreCompileInputs.cache
+C:\Github\CodingPractice\Program7\bin\Debug\net5.0\Program7.exe
+C:\Github\CodingPractice\Program7\bin\Debug\net5.0\Program7.deps.json
+C:\Github\CodingPractice\Program7\bin\Debug\net5.0\Program7.runtimeconfig.json
+C:\Github\CodingPractice\Program7\bin\Debug\net5.0\Program7.runtimeconfig.dev.json
+C:\Github\CodingPractice\Program7\bin\Debug\net5.0\Program7.dll
+C:\Github\CodingPractice\Program7\bin\Debug\net5.0\ref\Program7.dll
+C:\Github\CodingPractice\Program7\bin\Debug\net5.0\Program7.pdb
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\Program7.dll
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\ref\Program7.dll
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\Program7.pdb
+C:\Github\CodingPractice\Program7\obj\Debug\net5.0\Program7.genruntimeconfig.cache
