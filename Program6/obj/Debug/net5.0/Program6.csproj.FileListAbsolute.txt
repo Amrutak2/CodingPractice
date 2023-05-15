@@ -1,0 +1,16 @@
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\Program6.csproj.AssemblyReference.cache
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\Program6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\Program6.AssemblyInfoInputs.cache
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\Program6.AssemblyInfo.cs
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\Program6.csproj.CoreCompileInputs.cache
+C:\Github\CodingPractice\Program6\bin\Debug\net5.0\Program6.exe
+C:\Github\CodingPractice\Program6\bin\Debug\net5.0\Program6.deps.json
+C:\Github\CodingPractice\Program6\bin\Debug\net5.0\Program6.runtimeconfig.json
+C:\Github\CodingPractice\Program6\bin\Debug\net5.0\Program6.runtimeconfig.dev.json
+C:\Github\CodingPractice\Program6\bin\Debug\net5.0\Program6.dll
+C:\Github\CodingPractice\Program6\bin\Debug\net5.0\ref\Program6.dll
+C:\Github\CodingPractice\Program6\bin\Debug\net5.0\Program6.pdb
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\Program6.dll
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\ref\Program6.dll
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\Program6.pdb
+C:\Github\CodingPractice\Program6\obj\Debug\net5.0\Program6.genruntimeconfig.cache
